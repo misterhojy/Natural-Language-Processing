@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-using deep learning tools to contextualize word embeddings and categorize articles based on its contents
+using deep learning tools to contextualize word embeddings and categorize articles based on its contents (PYTHON)
 
 This project is an introduction to deep learning tools for Natural Language Processing. You will experiment and train Transformer-based networks for text classification using PyTorch. Specifically, in this assignment, you’ll dive into the world of transformer-based models for natural language processing (NLP), with a special focus on BERT (Bidirectional Encoder Representations from Transformers). BERT, along with other transformers, has fundamentally changed how machines process language.
 
