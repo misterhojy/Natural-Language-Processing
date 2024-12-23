@@ -1,2 +1,8 @@
 # Natural-Language-Processing
 using deep learning tools to contextualize word embeddings and categorize articles based on its contents
+
+This project is an introduction to deep learning tools for Natural Language Processing. You will experiment and train Transformer-based networks for text classification using PyTorch. Specifically, in this assignment, you’ll dive into the world of transformer-based models for natural language processing (NLP), with a special focus on BERT (Bidirectional Encoder Representations from Transformers). BERT, along with other transformers, has fundamentally changed how machines process language.
+
+We’ll start by exploring word embeddings. You’ll learn how BERT generates “contextualized” embeddings, meaning the same word—like “bank”—can have different vector representations depending on its context. For example, “bank” can refer to a financial institution or the side of a river, and BERT captures these differences. Your first task will be to load a pre-trained BERT model, extract embeddings for words, and see how these embeddings change with context. This part will help you understand why transformers are such a big deal in NLP.
+
+Next, you’ll put BERT to work in a text classification task, training a model to classify text into categories. Using PyTorch and the Hugging Face library, you’ll fine-tune BERT to recognize patterns in the data and make predictions. This is where you’ll really see how transformers can power real-world applications. By the end of this assignment, you are expected to have a solid grasp of how to use BERT for NLP tasks and be ready to tackle more advanced deep learning projects.
